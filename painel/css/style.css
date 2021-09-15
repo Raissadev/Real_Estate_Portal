@@ -282,6 +282,7 @@ svg{
     box-shadow: 0 3px 9px 0 rgb(28 28 51 / 15%);
 	background-clip: border-box;
     border-radius: 5px;
+	position: relative;
 }
 div.btnPags {
 	height: 15vh;
@@ -336,7 +337,6 @@ div.btnPags .btnSelected{
 .boxMessage a.breadTwo{
 	color: var(--myPurple);
 }
-
 
 
 section.formDefault input, section.formDefault textarea{
@@ -706,7 +706,6 @@ section.contentShop .searchContent{
 }
 section.contentShop .boxShop{
 	min-height: 60vh;
-	overflow:hidden;
 }
 section.contentShop .boxShop .boxBody img{
 	width: 100%;
@@ -947,7 +946,8 @@ section.cardProduct .boxShop .imagesGrid .deletImgs.btnsImgs a{
 .bag{
 	max-width: 25%;
     position: absolute;
-    margin: -0.5% 0 0 19%;
+    right: 20%;
+    top: -1.8%;
 }
 span.ribbon{
 	position: absolute;
@@ -1094,8 +1094,8 @@ span.ribbon:after {
 		max-width: 49%;
 	}
 	.bag {
-		margin: -1.2% 0 0 31%;
-	}
+		right: 35%;
+	}	
 }
 
 
