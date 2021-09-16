@@ -18,7 +18,7 @@
 <base base="<?php echo INCLUDE_PATH_PAINEL ?>" />
 
 <main id="mainContent">
-	<aside id="asidePainel" ontouchstart="showCoordinates(event)" ontouchmove="showCoordinates(event)">
+	<aside class="asidePainel" ontouchstart="showCoordinates(event)" ontouchmove="showCoordinates(event)">
 		<div class="wrap">
 			<div class="userPainel items-flex">
 				<div class="boxUser">
@@ -94,8 +94,7 @@
 			<div class="wrap grid-5x5">
 				<div class="row items-flex w90 center">
 					<div class="headerIcon items-flex w40Mobile">
-						<span id="menuClose" class="btnIcon"><i class="menuMobile" data-feather="menu"></i> </span>
-						<span id="menuOpen" class="btnIcon"><i class="menuMobile" data-feather="menu"></i> </span>
+						<span class="btnIcon btnIconClick"><i class="menuMobile" data-feather="menu"></i> </span>
 					</div><!--headerIcon-->
 					<div class="headerInput w70">
 						<form method="post" class="items-flex w100">
