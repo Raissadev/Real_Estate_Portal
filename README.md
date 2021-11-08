@@ -1,20 +1,22 @@
-# Real_Estate_Portal
-<h2>Sobre o Projeto</h2>
+# Real Estate Portal
+<h3>Sobre o Projeto</h3>
 <p>Portal de Imóveis conectado com o dashboard, muito interativo e atraente. 😊</p>
-<h3>Front-end:</h3>
+
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JS</li>
-</ul>
-<h3>Back-end:</h3>
-<ul>
-  <li>PHP</li>
-  <li>Database: MySql</li>
-</ul>
-<h3>Stacks:</h3>
-<ul>
-  <li>jQuery</li>
+  <li>Lenguages:</li>
+  <i>PHP, JavaScript e SQL</i>
+  
+  <li>Database:</li>
+  <i>MySql</i>
+  
+  <li>Library:</li>
+  <i>jQuery</i>
+  
+  <li>Style:</li>
+  <i>Cascading Style Sheets</i>
+  
+  <li>Markup Language:</li>
+  <i>HTML</i>
 </ul>
 
 ![gif](https://user-images.githubusercontent.com/82960240/138620057-aa28f4da-f566-47d2-9ff1-86a4d4c5ac21.gif)
